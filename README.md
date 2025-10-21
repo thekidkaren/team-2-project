@@ -8,3 +8,7 @@ The project we are proposing is to help combat against the decline in air qualit
 Sergio Castillo-Writing analysis code and producing visualizations
 
 Zachary Taraci-Producing Streamlit application
+
+
+# Alex Cuyler
+Alex Cuyler: Alexjc03@unm.edu: Managing GitHub workflow, Dataset Justification
